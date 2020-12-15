@@ -20,7 +20,7 @@ JavaScript标准是ECMAScript，是一种解释性脚本语言，可用于向HTM
 
 
 2. 三次握手与四次挥手
-![Image text](../img/TCP_shake_wave.PNG)
+![Image text](../img/TCP_shake_wave.png)
 
 3. TCP与UDP区别
 相同点：TCP与UDP都是传输层协议，基于IP协议
